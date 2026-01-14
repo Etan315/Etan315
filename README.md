@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tristan Ehron Tumbaga (Etan315)
 
-<!--
-**Etan315/Etan315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> **Technical Note:** This is my secondary/temporary account created for current interviews due to a hardware failure on my main machine. 
 
-Here are some ideas to get you started:
+### 🔍 Looking for my full portfolio?
+Please visit my primary GitHub profile to see my complete project history, contributions, and repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **[github.com/Etan31](https://github.com/Etan31)**
+
+---
+
+### 🛠️ About Me
+* 🔭 Currently working on: [Blog Post Web Application](https://github.com/Etan315/blog-post.git)
+* ⚡ Technical focus: [JavaScript, React, Redux, Postgresql,and Supabase]
+* 📧 Reach me at: [tristan.ehron.tumbaga@gmail.com]
+---
+*Thank you for your patience while I get my primary environment back online!*
